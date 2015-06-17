@@ -3,4 +3,4 @@ aws s3 sync . s3://ashleypelan-galvanize-omdb-client --acl public-read --exclude
 
 
 
-type---sh deploy.sh into terminal to push to s3
+# type---sh deploy.sh into terminal to push to s3
